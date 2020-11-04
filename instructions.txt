@@ -1,0 +1,5 @@
+Toggle LED '1'
+Read Temp '2'
+Turn Motor ON/Off '3'
+Increase Motor Speed '+'
+Decrease Motor Speed '-'
